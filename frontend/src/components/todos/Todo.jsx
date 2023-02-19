@@ -107,13 +107,7 @@ const Todo = ({ todo, setTodo, todos }) => {
                 <DialogTitle>Select a user to share with</DialogTitle>
                 <List>
                   <ListItem button>
-                    <ListItemText primary="User 1" />
-                  </ListItem>
-                  <ListItem button>
-                    <ListItemText primary="User 2" />
-                  </ListItem>
-                  <ListItem button>
-                    <ListItemText primary="User 3" />
+                    <ListItemText primary="Athumani" />
                   </ListItem>
                 </List>
               </Dialog>
